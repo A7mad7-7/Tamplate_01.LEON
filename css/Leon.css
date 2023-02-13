@@ -313,7 +313,7 @@ body {
     background-color: white;
     border-radius: 15px;
     overflow: hidden;
-    box-shadow: 0 0 5px 0.3px;
+    box-shadow: 0 0 10px -2px;
 }
 
 .Portfolio .container .port-sec img {
